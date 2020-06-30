@@ -1,3 +1,3 @@
 # calculator-REACTJS
  
-![]( Animated GIF-source.gif)
+![]( Animated-GIF-source.gif)
