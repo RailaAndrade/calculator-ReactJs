@@ -1,0 +1,25 @@
+.button{
+    display: flex;
+    flex: 1;
+    height:100px;
+    justify-content: center;
+    align-items: center;
+    background-color:#FFFF;
+  
+    /*outline: 1px solid #888;*/
+    transition: all .2s;
+}
+
+.operator{
+    color:#FFFF;
+    color: #6f1abd;
+    font-weight: bold;
+}
+
+.button:hover {
+    color: white;
+    background-color: #6f1abd;
+}
+.button:active {
+    transform: scale(.95);
+}
