@@ -1,3 +1,3 @@
-# calculator-REACTJS
+# calculator-ReactJs
  
 ![]( Animated-GIF-downsized.gif)
